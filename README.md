@@ -7,4 +7,4 @@
 4. `npm run dev` va brauzerda http://localhost:3000 ni oching.
 
 Demo: tasdiqlash kodi sifatida istalgan 4 ta raqamni kiriting.
-OpenAI ishlatish uchun `.env` ichiga OPENAI_API_KEY yozing.
+OpenAI ishlatish uchun `.env` ichiga OPENAI_API_KEY yozing. Baxtiyorova shirin tomonidan haqiqiy app uchun guide
