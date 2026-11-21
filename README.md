@@ -2,7 +2,7 @@
 
 ## Ishga tushirish
 1. `npm install`
-2. `cp .env.example .env`   (Windows: `copy .env.example .env`)
+2. `cp .env.example .env`   (CMD: `copy .env.example .env`)
 3. `npx prisma db push`
 4. `npm run dev` va brauzerda http://localhost:3000 ni oching.
 
